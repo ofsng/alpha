@@ -1,0 +1,9 @@
+# Profiling and Env
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
